@@ -1,3 +1,4 @@
-# wwcrockett.github.io
+# Will Crockett
 
-Hello! My name is Will Crockett. I am an undergraduate at the University of New Mexico. I am studying Physics and Biology. This site is a work-in-progress, but I will be adding more of my work soon!
+## About me
+I am an incoming PhD student at MIT in the Microbiology program. I did my undergraduate at the University of New Mexico, where I double majored in physics and biology with a minor in math. My interests vary from theoretical biology and modeling to environmental responses to climate change.
